@@ -1,10 +1,4 @@
 
-GITHUB PORTFOLIO STRUCTURE – IT SUPPORT
-
-
-it-support-portfolio-fortune
-
-Folder structure:
 
 it-support-portfolio-fortune/
 ├─ README.md
